@@ -1,0 +1,15 @@
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.GeneratedMSBuildEditorConfig.editorconfig
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.AssemblyInfoInputs.cache
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.AssemblyInfo.cs
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.csproj.CoreCompileInputs.cache
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.sourcelink.json
+G:\HomeWorkParallel\HWParallel\bin\Debug\net8.0\HWParallel.exe
+G:\HomeWorkParallel\HWParallel\bin\Debug\net8.0\HWParallel.deps.json
+G:\HomeWorkParallel\HWParallel\bin\Debug\net8.0\HWParallel.runtimeconfig.json
+G:\HomeWorkParallel\HWParallel\bin\Debug\net8.0\HWParallel.dll
+G:\HomeWorkParallel\HWParallel\bin\Debug\net8.0\HWParallel.pdb
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.dll
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\refint\HWParallel.dll
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.pdb
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\HWParallel.genruntimeconfig.cache
+G:\HomeWorkParallel\HWParallel\obj\Debug\net8.0\ref\HWParallel.dll
